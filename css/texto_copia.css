@@ -1,0 +1,19 @@
+#texto_copiar aside {
+     border: solid 1px black;
+     margin-right: 100px;
+     margin-bottom: 5px;
+     max-width: 242px;
+     height: 550px;
+}
+
+#texto_copiar p {
+     height: 300px;
+}
+
+
+#texto_copiar button {
+     padding: 25px 75px;
+     border-radius: 70px;
+     margin: 138px  25px 0;
+     cursor: pointer;
+}
